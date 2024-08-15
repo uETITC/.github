@@ -16,6 +16,23 @@ For more imformation contact [saguileran@itc.edu.co](mailto:saguileran@itc.edu.c
 - [Hackerrank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
 
+### Artificial intelligence (AI)
+
+#### Text (NLP)
+
+- [Copilot](https://copilot.microsoft.com/)
+- [ChatGPT](https://chatgpt.com/)
+- [Anthropic](https://www.anthropic.com/)
+- [Gemini](https://gemini.google.com/app)
+
+#### Images
+
+- [Leonardo AI](https://leonardo.ai/)
+- [Designer](https://designer.microsoft.com/)
+- [DeepAI](https://deepai.org/machine-learning-model/text2img)
+- [MidJourney](https://www.midjourney.com/home)
+- [Stable Difussion](https://dreamstudio.ai/generate)
+
  ### GitHub
 
 - [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
