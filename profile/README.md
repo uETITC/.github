@@ -8,7 +8,7 @@ Although all courses content will be stored on GitHub the submission must be don
 
 For more imformation contact [saguileran@itc.edu.co](mailto:saguileran@itc.edu.co).
 
-Virtual classroom will be:
+Virtual classroom will be on:
 
 <div align="center">
  
