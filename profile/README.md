@@ -22,6 +22,14 @@ Virtual classroom will be on:
 
 </div>
 
+## Courses
+
+- [DataBasesI-2024-2](https://github.com/uETITC/DataBasesI-2024-2)
+- [ProgrammingII-2024-2 ](https://github.com/uETITC/ProgrammingII-2024-2)
+- [SoftwareDesignI-2024-2 ](https://github.com/uETITC/SoftwareDesignI-2024-2)
+- [DataStructure-2024-2](https://github.com/uETITC/DataStructure-2024-2)
+
+
 ## Links of Interest
 
 ### Coding Practice
