@@ -15,7 +15,7 @@ Virtual classroom will be on:
 | **Month** |     **Day**    |
 |:---------:|:--------------:|
 |   August  |  Tuesday 20th  |
-| September |   Monday 23rd  |
+| September | Replaced by 6th|
 |  October  |   Friday 11th  |
 |  November |  Thursday 21st |
 |  December | Wednesday 11th |
@@ -25,9 +25,9 @@ Virtual classroom will be on:
 ## Courses
 
 - [DataBasesI-2024-2](https://github.com/uETITC/DataBasesI-2024-2)
+- [DataStructure-2024-2](https://github.com/uETITC/DataStructure-2024-2)
 - [ProgrammingII-2024-2 ](https://github.com/uETITC/ProgrammingII-2024-2)
 - [SoftwareDesignI-2024-2 ](https://github.com/uETITC/SoftwareDesignI-2024-2)
-- [DataStructure-2024-2](https://github.com/uETITC/DataStructure-2024-2)
 
 
 ## Links of Interest
