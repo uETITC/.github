@@ -29,7 +29,6 @@ Virtual classroom will be on:
 - [ProgrammingII-2024-2 ](https://github.com/uETITC/ProgrammingII-2024-2)
 - [SoftwareDesignI-2024-2 ](https://github.com/uETITC/SoftwareDesignI-2024-2)
 
-
 ## Links of Interest
 
 ### Coding Practice
@@ -47,7 +46,7 @@ Virtual classroom will be on:
 - [Anthropic](https://www.anthropic.com/)
 - [Gemini](https://gemini.google.com/app)
 
-#### Images
+#### Text-to-Images
 
 - [Leonardo AI](https://leonardo.ai/)
 - [Designer](https://designer.microsoft.com/)
@@ -72,6 +71,7 @@ Virtual classroom will be on:
 - [Github - Sintaxis de escritura y formato básicos](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Github - Inicio rápido para escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [CommonMark](https://commonmark.org/)
+- [Tables Generator](https://www.tablesgenerator.com/)
 
 ### Diagrams (UML, classes, objects, etc)
 
