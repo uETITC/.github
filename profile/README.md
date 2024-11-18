@@ -24,10 +24,10 @@ Virtual classroom will be on:
 
 ## Courses
 
-- [DataBasesI-2024-2](https://github.com/uETITC/DataBasesI-2024-2)
-- [DataStructure-2024-2](https://github.com/uETITC/DataStructure-2024-2)
-- [ProgrammingII-2024-2 ](https://github.com/uETITC/ProgrammingII-2024-2)
-- [SoftwareDesignI-2024-2 ](https://github.com/uETITC/SoftwareDesignI-2024-2)
+- Data Bases I:      [Repository](https://github.com/uETITC/DataBasesI-2024-2) - [Website](https://uetitc.github.io/DataBasesI-2024-2/)
+- Data Structure:    [Repository](https://github.com/uETITC/DataStructure-2024-2) - [Website](https://uetitc.github.io/DataStructure-2024-2/)
+- Programming II:    [Repository](https://github.com/uETITC/ProgrammingII-2024-2) - [Website](https://uetitc.github.io/ProgrammingII-2024-2/)
+- Software Design I: [Repository](https://github.com/uETITC/SoftwareDesignI-2024-2) - [Website](https://uetitc.github.io/SoftwareDesignI-2024-2/)
 
 ## Links of Interest
 
