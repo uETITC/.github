@@ -8,19 +8,6 @@ Although all courses content will be stored on GitHub the submission must be don
 
 For more imformation contact [saguileran@itc.edu.co](mailto:saguileran@itc.edu.co).
 
-Virtual classroom will be on:
-
-<div align="center">
- 
-| **Month** |     **Day**    |
-|:---------:|:--------------:|
-|   August  |  Tuesday 20th  |
-| September | Replaced by 6th|
-|  October  |   Friday 11th  |
-|  November |  Thursday 21st |
-|  December | Wednesday 11th |
-
-</div>
 
 ## Courses
 
