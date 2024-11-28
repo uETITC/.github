@@ -19,3 +19,5 @@ For more imformation about the github organization contact [saguileran@itc.edu.c
 - Data Structure:    [Repository](https://github.com/uETITC/DataStructure-2024-2) - [Website](https://uetitc.github.io/DataStructure-2024-2/)
 - Programming II:    [Repository](https://github.com/uETITC/ProgrammingII-2024-2) - [Website](https://uetitc.github.io/ProgrammingII-2024-2/)
 - Software Design I: [Repository](https://github.com/uETITC/SoftwareDesignI-2024-2) - [Website](https://uetitc.github.io/SoftwareDesignI-2024-2/)
+
+## [Link of Interest](https://www.uetitc.github.io/blog/2024/links-of-interest/)
