@@ -13,7 +13,7 @@ For more imformation about the github organization contact [saguileran@itc.edu.c
 
 ## [Courses](https://uetitc.github.io/cursos/)
 
-### 2024-II
+### [2024-II](https://uetitc.github.io/cursos/#2024-II)
 
 - Data Bases I:      [Repository](https://github.com/uETITC/DataBasesI-2024-2) - [Website](https://uetitc.github.io/DataBasesI-2024-2/)
 - Data Structure:    [Repository](https://github.com/uETITC/DataStructure-2024-2) - [Website](https://uetitc.github.io/DataStructure-2024-2/)
