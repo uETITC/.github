@@ -3,7 +3,7 @@
 ---
 
 > [!IMPORTANT]  
-> This repository is migrating to the website [uetitc](https://www.uetitc.github.io).
+> This repository is migrating to the website [uetitc](https://uetitc.github.io/).
 
 This organization contains all documents and codes created for the courses taught at the [Escuela Tecnológica Instituto Técnico Central](https://etitc.edu.co/es/) for the systems engeneering program. All information about the university education can be found on the [oficial website](https://www.etitc.edu.co/es/page/educacionsuperior), the academic calendar for the second semester of 2024 can be found [here](https://etitc.edu.co/archives/acuerdo0062024.pdf). More information about the systems engeneering program can be found at [System Engineering Program](https://www.etitc.edu.co/es/page/sistemas) (syllabus, study plan, norms, etc).
 
