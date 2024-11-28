@@ -11,7 +11,7 @@ Although all courses content will be stored on GitHub the submission must be don
 
 For more imformation about the github organization contact [saguileran@itc.edu.co](https://maito:saguileran@itc.edu.co). The official emails for the systems engineering program of ETITC contact  [auxsistemas@itc.edu.co](https://mailto:auxsistemas@itc.edu.co) o [apoyosistemas@itc.edu.co](https://maito:apoyosistemas@itc.edu.co).
 
-## Courses
+## [Courses](https://uetitc.github.io/cursos/)
 
 ### 2024-II
 
